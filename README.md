@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Play this online game live at https://play-tetris-game-online.netlify.app/
+<p>Play this online game live at: <a href="https://play-tetris-game-online.netlify.app/" target="_blank">Online Tetris Game!</a></p>
 
 ## Available Scripts
 
